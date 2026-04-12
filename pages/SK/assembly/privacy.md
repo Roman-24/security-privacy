@@ -108,12 +108,6 @@ hide: false
 
 ---
 transition: fade-out
-src: ../modules/privacy/konspirator.md
-hide: false
----
-
----
-transition: fade-out
 src: ../modules/privacy/priklady-1.md
 hide: false
 ---
