@@ -1,53 +1,53 @@
 ---
 transition: fade-out
-src: ./crypto/cover.md
+src: ../modules/crypto/cover.md
 hide: false
 ---
 
 ---
 transition: fade-out
-src: ./crypto/kyc.md
+src: ../modules/crypto/kyc.md
 hide: false
 ---
 
 ---
 transition: fade-out
-src: ./crypto/kyc-problem.md
+src: ../modules/crypto/kyc-problem.md
 hide: false
 ---
 
 ---
 transition: fade-out
-src: ./crypto/dirty-coins.md
+src: ../modules/crypto/dirty-coins.md
 hide: false
 ---
 
 ---
 transition: fade-out
-src: ./crypto/hw-wallet.md
+src: ../modules/crypto/hw-wallet.md
 hide: false
 ---
 
 ---
 transition: fade-out
-src: ./crypto/bitcoin.md
+src: ../modules/crypto/bitcoin.md
 hide: false
 ---
 
 ---
 transition: fade-out
-src: ./crypto/ethereum.md
+src: ../modules/crypto/ethereum.md
 hide: false
 ---
 
 ---
 transition: fade-out
-src: ./crypto/ethereum-defi.md
+src: ../modules/crypto/ethereum-defi.md
 hide: false
 ---
 
 ---
 transition: fade-out
-src: ./crypto/monero.md
+src: ../modules/crypto/monero.md
 hide: false
 ---
