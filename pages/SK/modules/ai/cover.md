@@ -3,4 +3,6 @@ layout: cover
 routeAlias: module-ai
 ---
 
-# AI
+# AI a súkromie
+
+Lokálne modely, cloudové AI služby a praktické zásady bezpečného používania

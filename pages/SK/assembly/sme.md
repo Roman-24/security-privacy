@@ -6,12 +6,6 @@ hide: false
 
 ---
 transition: fade-out
-src: ../modules/sme/harmonogram.md
-hide: false
----
-
----
-transition: fade-out
 src: ../modules/privacy/zoznam-firiem.md
 hide: false
 ---
