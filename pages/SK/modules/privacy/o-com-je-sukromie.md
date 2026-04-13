@@ -1,9 +1,9 @@
 # O čom je súkromie?
 
-🛜 Dáta kolujú všade
+- Dáta kolujú všade
 
-🔊 Všetko čo ide cez internet už nepatrí iba vám
+- Všetko čo ide cez internet už nepatrí iba vám
 
-🎚️ Anonymita > súkromie
+- Anonymita != súkromie
 
-🎸 Poďme sa pozrieť čo to reálne znamená
+- Poďme sa pozrieť čo to reálne znamená

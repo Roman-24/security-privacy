@@ -6,37 +6,13 @@ hide: false
 
 ---
 transition: fade-out
-src: ../modules/security/co-sa-dozviete.md
-hide: false
----
-
----
-transition: fade-out
-src: ../modules/security/co-sa-nedozviete.md
-hide: false
----
-
----
-transition: fade-out
-src: ../modules/security/je-to-dolezite.md
-hide: false
----
-
----
-transition: fade-out
-src: ../modules/security/dobre-zle-tech.md
+src: ../modules/security/o-com-je-bezpecnost.md
 hide: false
 ---
 
 ---
 transition: fade-out
 src: ../modules/security/hackers.md
-hide: false
----
-
----
-transition: fade-out
-src: ../modules/security/o-com-je-bezpecnost.md
 hide: false
 ---
 

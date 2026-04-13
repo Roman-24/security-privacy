@@ -1,6 +1,6 @@
 ---
 layout: cover
-routeAlias: module-sme
+routeAlias: module-small-enterprise
 ---
 
 # Malé a stredné firmy

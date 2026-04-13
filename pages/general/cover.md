@@ -12,7 +12,7 @@ Security · Privacy · AI · Crypto · SMEs
   <p class="mb-3 font-medium">Available languages</p>
   <div class="flex flex-wrap justify-start gap-4 text-base">
     <Link
-      to="hub-sk"
+      to="sk-general-info"
       class="rounded-lg border border-current px-5 py-2 transition hover:bg-white/10"
     >
       Slovenčina

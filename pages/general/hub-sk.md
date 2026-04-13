@@ -16,11 +16,11 @@ routeAlias: hub-sk
   <Link to="module-ai" class="block rounded-lg border border-current px-5 py-3 transition hover:bg-white/10">
     AI
   </Link>
+  <Link to="module-small-enterprise" class="block rounded-lg border border-current px-5 py-3 transition hover:bg-white/10">
+    Malé a stredné firmy
+  </Link>
   <Link to="module-crypto" class="block rounded-lg border border-current px-5 py-3 transition hover:bg-white/10">
     Krypto
-  </Link>
-  <Link to="module-sme" class="block rounded-lg border border-current px-5 py-3 transition hover:bg-white/10">
-    Malé a stredné firmy
   </Link>
 </div>
 

@@ -1,9 +1,9 @@
 # Čo sa s tým dá robiť?
 
-😝 Nechcieť všetko zadarmo
+- Nechcieť všetko zadarmo
 
-🤩 Výber služby je vaša osobná voľba
+- Výber služby je vaša osobná voľba
 
-😾 Byť 100% anonymný sa nedá (resp. veľmi ťažké a pravdepodobne urobíte chybu)
+- Byť 100% anonymný sa nedá (resp. veľmi ťažké a pravdepodobne urobíte chybu)
 
-😻 Treba si určiť priority
+- Treba si určiť priority

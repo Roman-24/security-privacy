@@ -1,14 +1,14 @@
 # Password manager: cloudový
 
-🔐 Veľmi bezpečné
+- Veľmi bezpečné
 
-🛜 Zdieľanie medzi zariadeniami
+- Zdieľanie medzi zariadeniami
 
-💳 Treba si platiť (ako za každú dobrú službu)
+- Treba si platiť (ako za každú dobrú službu)
 
-🙀 Dáta sú aj niekde inde ako u vás (aj keď veľmi dobre chránené)
+- Dáta sú aj niekde inde ako u vás (aj keď veľmi dobre chránené)
 
-🕵️‍♂️ Auditované
+- Auditované
 
 ## Populárne služby
 

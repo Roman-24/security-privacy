@@ -6,37 +6,13 @@ hide: false
 
 ---
 transition: fade-out
-src: ../modules/privacy/co-sa-dozviete.md
-hide: false
----
-
----
-transition: fade-out
-src: ../modules/privacy/co-sa-nedozviete.md
-hide: false
----
-
----
-transition: fade-out
-src: ../modules/privacy/je-to-dolezite.md
-hide: false
----
-
----
-transition: fade-out
-src: ../modules/privacy/dobre-zle-tech.md
+src: ../modules/privacy/o-com-je-sukromie.md
 hide: false
 ---
 
 ---
 transition: fade-out
 src: ../modules/privacy/korporacie.md
-hide: false
----
-
----
-transition: fade-out
-src: ../modules/privacy/o-com-je-sukromie.md
 hide: false
 ---
 
