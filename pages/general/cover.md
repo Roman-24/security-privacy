@@ -26,6 +26,10 @@ Security · Privacy · AI · Crypto · SMEs
   </div>
 </div>
 
+<p class="mt-6 text-sm opacity-75">
+  Tip: Press <kbd>O</kbd> for all slides overview.
+</p>
+
 <p class="mt-14 text-base opacity-80">
   Roman · <a href="mailto:roman@decenzio.com" class="border-b border-current/40 hover:opacity-100">roman@decenzio.com</a>
 </p>
