@@ -4,6 +4,6 @@
 
 - Učenie z konverzácií: mnohé služby umožňujú vypnúť použitie správ na ďalšie trénovanie modelu, no nastavenia sa menia; oplatí sa ich pravidelne kontrolovať
 
-- **Rozšírenia a agenti: oplnky (napr. MCP alebo pluginy) môžu čítať súbory či volať API. Každý ďalší doplnok je nové miesto, kde môže vzniknúť únik údajov
+- Rozšírenia a agenti: doplnky (napr. MCP alebo pluginy) môžu čítať súbory či volať API. Každý ďalší doplnok je nové miesto, kde môže vzniknúť únik údajov
 
 - Halucinácie modelu: model vie vytvoriť presvedčivý, ale nepravdivý výstup. Pri dôležitých témach preto fakty vždy overte z dôveryhodného zdroja
